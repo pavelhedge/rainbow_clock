@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "rainbow_clock", "rainbow_clock.cproj", "{6032B7C1-806E-43F4-B0F9-24B2F6C94471}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6032B7C1-806E-43F4-B0F9-24B2F6C94471}.Debug|AVR.ActiveCfg = Debug|AVR
+		{6032B7C1-806E-43F4-B0F9-24B2F6C94471}.Debug|AVR.Build.0 = Debug|AVR
+		{6032B7C1-806E-43F4-B0F9-24B2F6C94471}.Release|AVR.ActiveCfg = Release|AVR
+		{6032B7C1-806E-43F4-B0F9-24B2F6C94471}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
